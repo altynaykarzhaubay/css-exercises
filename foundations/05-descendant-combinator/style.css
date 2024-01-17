@@ -1,0 +1,6 @@
+.container .text {
+    columns: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
